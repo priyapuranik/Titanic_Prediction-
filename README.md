@@ -1,6 +1,6 @@
 ## machine_learning_demo
 
-<b>This project aims to predict the survival of passengers aboard the Titanic using various machine learning techniques.</b>The dataset, includes features such as passenger class, age, gender, and ticket fare.<br> The goal is to build a model that accurately predicts whether a passenger survived the disaster.
+<b>This project aims to predict the survival of passengers aboard the Titanic using various machine learning techniques.</b><br>The dataset, includes features such as passenger class, age, gender, and ticket fare.<br> The goal is to build a model that accurately predicts whether a passenger survived the disaster.
 
 In this project, I explored different machine learning models to predict the survival of passengers. The main steps include:<br>
 a) Handling missing values.<br>
